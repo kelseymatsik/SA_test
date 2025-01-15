@@ -1,2 +1,1 @@
-# SA_test
-Test repository for Sports Analytics
+# Advanced Sports Analytics Test Repository
